@@ -1,0 +1,14 @@
+C:\Users\1714630\Documents\Development\Vue\FoodTracker\AspNetCore\bin\Debug\netcoreapp2.2\AspNetCore.deps.json
+C:\Users\1714630\Documents\Development\Vue\FoodTracker\AspNetCore\bin\Debug\netcoreapp2.2\AspNetCore.runtimeconfig.json
+C:\Users\1714630\Documents\Development\Vue\FoodTracker\AspNetCore\bin\Debug\netcoreapp2.2\AspNetCore.runtimeconfig.dev.json
+C:\Users\1714630\Documents\Development\Vue\FoodTracker\AspNetCore\bin\Debug\netcoreapp2.2\AspNetCore.dll
+C:\Users\1714630\Documents\Development\Vue\FoodTracker\AspNetCore\bin\Debug\netcoreapp2.2\AspNetCore.pdb
+C:\Users\1714630\Documents\Development\Vue\FoodTracker\AspNetCore\obj\Debug\netcoreapp2.2\AspNetCore.csprojAssemblyReference.cache
+C:\Users\1714630\Documents\Development\Vue\FoodTracker\AspNetCore\obj\Debug\netcoreapp2.2\AspNetCore.csproj.CoreCompileInputs.cache
+C:\Users\1714630\Documents\Development\Vue\FoodTracker\AspNetCore\obj\Debug\netcoreapp2.2\AspNetCore.RazorAssemblyInfo.cache
+C:\Users\1714630\Documents\Development\Vue\FoodTracker\AspNetCore\obj\Debug\netcoreapp2.2\AspNetCore.RazorAssemblyInfo.cs
+C:\Users\1714630\Documents\Development\Vue\FoodTracker\AspNetCore\obj\Debug\netcoreapp2.2\AspNetCore.AssemblyInfoInputs.cache
+C:\Users\1714630\Documents\Development\Vue\FoodTracker\AspNetCore\obj\Debug\netcoreapp2.2\AspNetCore.AssemblyInfo.cs
+C:\Users\1714630\Documents\Development\Vue\FoodTracker\AspNetCore\obj\Debug\netcoreapp2.2\AspNetCore.RazorTargetAssemblyInfo.cache
+C:\Users\1714630\Documents\Development\Vue\FoodTracker\AspNetCore\obj\Debug\netcoreapp2.2\AspNetCore.dll
+C:\Users\1714630\Documents\Development\Vue\FoodTracker\AspNetCore\obj\Debug\netcoreapp2.2\AspNetCore.pdb
